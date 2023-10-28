@@ -91,7 +91,7 @@ I have compiled my professional journey, projects, and achievements on my person
 ## Contact Information
 
 - **Email:** hirwanitekeshwar@gmail.com
-- [**LinkedIn Profile**](https://www.linkedin.com/in/tekeshwar-hirwani)
+- [**LinkedIn Profile**](https://www.linkedin.com/in/tekeshwar-hirwani-b1aa55200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
