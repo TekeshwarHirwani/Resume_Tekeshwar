@@ -19,7 +19,7 @@ For a more interactive experience, visit my personal website: [tekeshwarhirwani.
 
 - **National Institute of Technology, Raipur, India**
   - Candidate for Bachelor of Biomedical Engineering with distinction
-  - Duration: May 2018 - June 2024
+  - Duration: May 2020 - June 2024
   - CGPA: 8.99/10
 
 ## Professional Experience
