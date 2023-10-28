@@ -17,7 +17,7 @@ Welcome to my professional GitHub portfolio. Here, you can find details about my
 - **National Institute of Technology, Raipur, India**
   - Candidate for Bachelor of Biomedical Engineering with distinction
   - Duration: May 2018 - June 2024
-  - CGPA: 8.9988/10
+  - CGPA: 8.99/10, Rank 4th in my Class
 
 ## Professional Experience
 
