@@ -2,6 +2,8 @@
 
 Welcome to my professional GitHub portfolio. Here, you can find details about my educational background, professional experiences, skills, projects, and additional achievements. Feel free to browse through and connect with me for any potential collaborations or inquiries.
 
+For a more interactive experience, visit my personal website: [tekeshwarhirwani.netlify.app](https://tekeshwarhirwani.netlify.app/)
+
 ## Table of Contents
 
 - [Education](#education)
@@ -10,6 +12,7 @@ Welcome to my professional GitHub portfolio. Here, you can find details about my
 - [Skills](#skills)
 - [Courses & Certifications](#courses--certifications)
 - [Honours, Awards & Co-Curricular Activities](#honours-awards--co-curricular-activities)
+- [Personal Website](#personal-website)
 - [Contact Information](#contact-information)
 
 ## Education
@@ -17,7 +20,7 @@ Welcome to my professional GitHub portfolio. Here, you can find details about my
 - **National Institute of Technology, Raipur, India**
   - Candidate for Bachelor of Biomedical Engineering with distinction
   - Duration: May 2018 - June 2024
-  - CGPA: 8.99/10, Rank 4th in my Class
+  - CGPA: 8.9988/10
 
 ## Professional Experience
 
@@ -80,6 +83,10 @@ Welcome to my professional GitHub portfolio. Here, you can find details about my
 - Led various events as Head Coordinator of the Innovation Cell at NIT Raipur, fostering a culture of innovation on campus.
 - Volunteered with the Starlight Foundation, conducting awareness campaigns in over 10 villages.
 - Secured 1st Rank in National Level Science exhibition "Vigyan - 2023" by Technocracy NIT RAIPUR.
+
+## Personal Website
+
+I have compiled my professional journey, projects, and achievements on my personal website. It is a comprehensive platform that provides insights into my work and aspirations. Visit [tekeshwarhirwani.netlify.app](https://tekeshwarhirwani.netlify.app/) to explore more about my professional story.
 
 ## Contact Information
 
