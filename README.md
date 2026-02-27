@@ -30,7 +30,8 @@ Department of Electrical Communication Engineering
 ---
 
 ### Research Intern  
-**Indian Institute of Science (IISc), Bengaluru**  
+**Indian Institute of Science (IISc), Bengaluru**
+Instrumentation and Applied Physics Department (IAP)
 **Jan 2024 – June 2024**
 
 - Developed a **transformer-based dual SwinUNet** for Photoacoustic Imaging reconstruction.  
