@@ -1,7 +1,7 @@
 # Tekeshwar Hirwani's Professional Portfolio
 
 Welcome to my professional GitHub portfolio. Here you can explore my academic background, research work, professional experience, and technical projects. I welcome collaborations, research discussions, and professional opportunities.
-
+Personal Website : https://tekeshwarhirwani.github.io/tekeshwar/
 ---
 
 ## Education
